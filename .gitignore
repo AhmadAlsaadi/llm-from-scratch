@@ -1,5 +1,9 @@
 # Created by https://www.gitignore.io/api/python
 ### Python ###
+
+# Jupyter Notebook Checkpoints
+**/.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
